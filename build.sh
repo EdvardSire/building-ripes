@@ -24,6 +24,7 @@ git submodule update --init --recursive
 brew install qt
 brew install autoconf 
 brew install automake 
+brew install cmake
 brew install libtool 
 brew install xz
 brew install pkg-config 
